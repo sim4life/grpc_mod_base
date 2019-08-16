@@ -1,2 +1,2 @@
-# grpc_mod_base
+# gRPC basic demo
 Basic gRPC implementation using Go Modules
